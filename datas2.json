@@ -1,0 +1,34 @@
+[
+  {
+    "student": "Water boils 100°C sea level",
+    "answer_key": "Water boils at 100 degree celsius at sea level."
+  },
+  {
+    "student": "Mitochondria powerhouse cell",
+    "answer_key": "The mitochondria is the powerhouse of the cell."
+  },
+  {
+    "student": "Newton first law rest motion external force",
+    "answer_key": "Newton’s first law states that an object remains in a state of rest or uniform motion unless acted upon by an external force."
+  },
+  {
+    "student": "Photosynthesis leaves plants chloroplasts",
+    "answer_key": "Photosynthesis happens in the leaves of plants, in the chloroplasts."
+  },
+  {
+    "student": "Capital France Paris",
+    "answer_key": "The capital of France is Paris."
+  },
+  {
+    "student": "Acceleration rate change velocity time",
+    "answer_key": "Acceleration is the rate of change of velocity with respect to time."
+  },
+  {
+    "student": "Largest planet solar system Jupiter",
+    "answer_key": "The largest planet in our solar system is Jupiter."
+  },
+  {
+    "student": "Right triangle Pythagoras theorem a² + b² = c²",
+    "answer_key": "In a right triangle, Pythagoras theorem says a² + b² = c²."
+  }
+]
