@@ -1,0 +1,34 @@
+[
+  {
+    "student": "Water is made up of two atoms of hydrogen and one atom of oxygen.",
+    "answer_key": "Water consists of two hydrogen atoms and one oxygen atom."
+  },
+  {
+    "student": "NaCl is called sodium dioxide.",
+    "answer_key": "NO2 is called sodium chloride."
+  },
+  {
+    "student": "The atomic number of carbon is 14.",
+    "answer_key": "The atomic number of carbon is 6."
+  },
+  {
+    "student": "An acid increases the concentration of hydroxide ions in a solution.",
+    "answer_key": "An acid increases the concentration of hydrogen ions in a solution."
+  },
+  {
+    "student": "Covalent bonds are formed by the transfer of electrons.",
+    "answer_key": "Covalent bonds are formed by the sharing of electrons."
+  },
+  {
+    "student": "The pH of a neutral solution is 7.",
+    "answer_key": "A neutral solution has a pH of 7."
+  },
+  {
+    "student": "Ammonia is a strong acid used in fertilizers.",
+    "answer_key": "Ammonia is a weak base commonly used in fertilizers."
+  },
+  {
+    "student": "Electrons are found in the nucleus of an atom.",
+    "answer_key": "Electrons orbit the nucleus of an atom in electron shells."
+  }
+]

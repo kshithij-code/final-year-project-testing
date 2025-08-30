@@ -1,0 +1,34 @@
+[
+  {
+    "student": "Water is composed of hydrogen and oxygen atoms. It has a bent molecular shape due to the two lone pairs on the oxygen atom.",
+    "answer_key": "Water consists of two hydrogen atoms and one oxygen atom, forming a bent shape because of lone pairs on oxygen. This gives water its polar nature."
+  },
+  {
+    "student": "Sodium chloride is a compound formed when sodium gives up one electron to chlorine. This forms an ionic bond between them.",
+    "answer_key": "NaCl forms through ionic bonding, where sodium donates an electron to chlorine. The resulting ions are held together by electrostatic forces."
+  },
+  {
+    "student": "Carbon has an atomic number of 14 and forms 2 bonds with other elements. It is a nonmetal.",
+    "answer_key": "Carbon has an atomic number of 6, meaning it has 6 protons. It typically forms 4 covalent bonds due to its 4 valence electrons."
+  },
+  {
+    "student": "Acids increase hydroxide ion concentration when dissolved in water. They taste sour and turn red litmus blue.",
+    "answer_key": "Acids increase hydrogen ion (H⁺) concentration in aqueous solutions. They turn blue litmus red and often taste sour."
+  },
+  {
+    "student": "Covalent bonds involve the complete transfer of electrons between atoms. This results in positive and negative ions.",
+    "answer_key": "Covalent bonding involves the sharing of electron pairs between atoms, creating molecules without forming ions."
+  },
+  {
+    "student": "A neutral solution has a pH of 7. It does not produce hydrogen or hydroxide ions in water.",
+    "answer_key": "Neutral solutions have a pH exactly equal to 7. Pure water is an example, where concentrations of H⁺ and OH⁻ are equal."
+  },
+  {
+    "student": "Ammonia is a weak base used in cleaning agents and fertilizers. It accepts protons in solution.",
+    "answer_key": "Ammonia (NH₃) acts as a weak base by accepting protons (H⁺) in aqueous solutions. It's commonly found in household cleaners and fertilizers."
+  },
+  {
+    "student": "Electrons are located inside the nucleus with protons and neutrons. They contribute to the mass of the atom.",
+    "answer_key": "Electrons orbit the nucleus in defined energy levels or shells. They have negligible mass and do not reside in the nucleus."
+  }
+]

@@ -1,0 +1,34 @@
+[
+  {
+    "student": "Water is composed of hydrogen and oxygen atoms. It is a universal solvent and has a bent molecular geometry due to the lone pairs on the oxygen. These lone pairs cause a partial negative charge near the oxygen atom, making the molecule polar.",
+    "answer_key": "A water molecule consists of two hydrogen atoms and one oxygen atom, forming a bent shape because of two lone electron pairs on the oxygen. This polarity enables hydrogen bonding, making water an excellent solvent for many substances."
+  },
+  {
+    "student": "Sodium chloride is an example of a covalent compound formed when sodium and chlorine share electrons. It dissolves well in water due to its polar nature.",
+    "answer_key": "Sodium chloride (NaCl) is an ionic compound formed when sodium donates an electron to chlorine, creating positive (Na⁺) and negative (Cl⁻) ions. These ions are held together by strong electrostatic forces and readily dissociate in water."
+  },
+  {
+    "student": "Carbon has an atomic number of 6 and can form four covalent bonds. It is found in all organic compounds, including carbohydrates, proteins, and lipids. Carbon's ability to catenate makes it ideal for forming complex molecules.",
+    "answer_key": "The atomic number of carbon is 6, indicating it has 6 protons. Carbon can form four covalent bonds due to its four valence electrons, allowing it to create long chains and rings. This property is fundamental to organic chemistry."
+  },
+  {
+    "student": "Acids taste bitter and turn red litmus blue. They decrease the concentration of hydrogen ions in solution and are slippery to touch.",
+    "answer_key": "Acids are substances that increase the concentration of hydrogen ions (H⁺) when dissolved in water. They taste sour, turn blue litmus paper red, and react with bases to form salts and water in neutralization reactions."
+  },
+  {
+    "student": "Covalent bonding involves the sharing of electrons between nonmetals. These shared electrons allow atoms to attain a stable octet configuration. Molecules like H₂O and CH₄ are examples of covalently bonded compounds.",
+    "answer_key": "Covalent bonds are formed when two atoms share one or more pairs of electrons. Typically occurring between nonmetal atoms, this bonding allows both atoms to reach a stable electron configuration. Water and methane are common examples."
+  },
+  {
+    "student": "A neutral solution has a pH of 7, meaning it contains equal concentrations of hydrogen and hydroxide ions. Distilled water is an example of a neutral solution, and it does not conduct electricity very well.",
+    "answer_key": "Neutral solutions have a pH of exactly 7, where the concentrations of hydrogen ions (H⁺) and hydroxide ions (OH⁻) are equal. Pure water is the most common example and has very low conductivity unless ions are present."
+  },
+  {
+    "student": "Ammonia is a basic gas that turns red litmus blue. In water, it acts as a weak acid, donating hydrogen ions to form ammonium. It is commonly used in fertilizers.",
+    "answer_key": "Ammonia (NH₃) is a weak base that accepts protons in aqueous solution to form ammonium ions (NH₄⁺). It is widely used in fertilizers due to its nitrogen content and also found in household cleaners."
+  },
+  {
+    "student": "Electrons are located in the nucleus along with protons and neutrons. Their number determines the atomic mass and they do not move.",
+    "answer_key": "Electrons are located in orbitals surrounding the atomic nucleus. They have a negligible mass and are responsible for chemical bonding. Their arrangement in shells determines an atom’s reactivity."
+  }
+]
